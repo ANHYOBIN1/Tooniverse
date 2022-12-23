@@ -6,6 +6,7 @@ public class RorBean {
 	private String ror_redate;
 	private String ror_name;
 	private int sup_ref;
+	private String adsd = null;
 	
 	public int getRor_ref() {
 		return ror_ref;
